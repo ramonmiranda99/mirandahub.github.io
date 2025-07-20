@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Mirandao Hub | Guia da Mente Inabalável</title>
+  <style>
+     img {
+     width: 150%;   
+      height: auto; 
+      object-fit: fill;
+    } 
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #f0f2f5;
+      color: #333;
+    }
+    header {
+      background: linear-gradient(135deg, #1e3c72, #2a5298);
+      color: white;
+      padding: 60px 20px 40px;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 2.8em;
+      margin-bottom: 10px;
+    }
+    header p {
+      font-size: 1.2em;
+      margin-top: 0;
+    }
+    .container {
+      max-width: 900px;
+      margin: auto;
+      background: white;
+      margin-top: -30px;
+      border-radius: 10px;
+      box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+      padding: 30px;
+    }
+    .image-preview {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    .image-preview img {
+      max-width: 300px;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+    h2 {
+      color: #1e3c72;
+      font-size: 1.5em;
+      margin-top: 30px;
+    }
+    ul {
+      padding-left: 20px;
+      line-height: 1.8;
+    }
+    .price-box {
+      background: #e3f2fd;
+      border-left: 5px solid #1976d2;
+      padding: 15px;
+      margin-top: 20px;
+      border-radius: 5px;
+    }
+    .price-box strong {
+      font-size: 1.5em;
+      color: #0d47a1;
+    }
+    .buy-button {
+      display: inline-block;
+      background: #1976d2;
+      color: white;
+      padding: 15px 30px;
+      margin-top: 20px;
+      font-size: 1.2em;
+      border: none;
+      border-radius: 5px;
+      text-decoration: none;
+      transition: 0.3s;
+    }
+    .buy-button:hover {
+      background: #0d47a1;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9em;
+      color: #666;
+      background: #f4f4f4;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>O Guia da Mente Inabalável</h1>
+  <p>Construa foco, disciplina e constância com estratégias práticas</p>
+</header>
+
+<div class="container">
+  <div class="image-preview">
+    <img src="1.jpeg" alt="Capa do eBook">
+  </div>
+
+  <h2>O que você vai aprender:</h2>
+  <ul>
+    <li>✅ Microvitórias diárias para vencer a procrastinação</li>
+    <li>✅ Como criar um ambiente que obriga o foco</li>
+    <li>✅ Como vencer a autossabotagem e manter a constância</li>
+    <li>✅ Estratégias mentais para desenvolver disciplina real</li>
+  </ul>
+
+  <h2></h2>
+  <ul>
+   
+  </ul>
+
+  <div class="price-box">
+    <p>Oferta Especial:</p>
+    <strong>R$ 49,00</strong><br>
+    <small>Acesso vitalício • Download imediato </small>
+  </div>
+
+  <a href="https://pay.hotmart.com" class="buy-button" target="_blank">Quero Acessar Agora</a>
+</div>
+
+<footer>
+  Miranda Hub © Todos os direitos reservados.
+</footer>
+
+</body>
+</html>
